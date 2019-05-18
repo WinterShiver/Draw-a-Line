@@ -1,13 +1,13 @@
 # Draw-a-Line
 
 Drawing algorithm implementation with: 
-1.User-defined Parameter and its Input (implemention based on PyQt5)
-2.Point-by-Point Drawing Display (implemention based on Matplotlib)
+* User-defined Parameter and its Input (implemention based on PyQt5)
+* Point-by-Point Drawing Display (implemention based on Matplotlib)
 
 ## Drawing Algorithm Avaliable
 
-Line: DDA, Bresenham;
-Circle, Ellipse: Mid-Point
+* Line: DDA, Bresenham
+* Circle, Ellipse: Mid-Point
 
 ## Something to say
 
